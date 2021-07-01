@@ -14,6 +14,12 @@
    "ten":"vo duc thang",
    "namsinh":2000,
    "noisinh":"kien giang"
+      },
+      "sinhvien4":{
+   "ten":"vo duc thang",
+   "namsinh":2000,
+   "noisinh":"kien giang"
+   "gioitinh":["nam","nu"]
       }
    }
 }
