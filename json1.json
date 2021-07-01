@@ -1,5 +1,19 @@
 {
+   "sinhvien":{
+      "sinhvien1":{
    "ten":"vo duc thang",
    "namsinh":2000,
    "noisinh":"kien giang"
+      },
+       "sinhvien2":{
+   "ten":"vo duc thang",
+   "namsinh":2000,
+   "noisinh":"kien giang"
+      },
+       "sinhvien3":{
+   "ten":"vo duc thang",
+   "namsinh":2000,
+   "noisinh":"kien giang"
+      }
+   }
 }
